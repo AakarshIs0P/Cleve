@@ -6,9 +6,9 @@
         "name": "Chat simulator"
     },
     "chat": {
-        "url": "http://api.brainshop.ai/get",
-        "brainID": "<brainshop API brain ID here>",
-        "key": "<brainshop API key here>",
-        "channel": "<discord channel ID here>"
+        "url": "bid=165126&key=lMzKiZMzOfsB6xgi&uid=[uid]&msg=[msg]",
+        "brainID": "165126",
+        "key": "lMzKiZMzOfsB6xgi",
+        "channel": "1237002536133726260"
     }
 }
